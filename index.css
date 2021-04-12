@@ -1,0 +1,215 @@
+.top {
+    width: 100%;
+    height: 67px;
+    background-image: linear-gradient(to left , rgb(148, 9, 9) , rgb(202, 61, 61));
+    margin-top: -7px;
+    box-shadow: black inset 0px 0px 8px;
+}
+input {
+    border-radius: 5px;
+    padding: 4px;
+    float: right;
+    margin-top: 19px;
+    margin-right: 75px;
+}
+button {
+    border-radius: 5px;
+    padding: 4px;
+    float: right;
+    margin-right: -239px;
+    margin-top: 19px;
+    cursor: pointer;
+}
+img {
+    margin-left: 10px;
+    width: 70px;
+}
+h1 {
+    color: white;
+    font-family: sans-serif;
+    display: inline;
+    position: absolute;
+    top: -4px;
+}
+.list {
+    margin-top: -16px;
+    background-color: rgb(200, 210, 214);
+    width: 100%;
+    height: 30px;
+}
+.one {
+    font-weight: bold;
+    margin: 10px;
+    font-size: 11.5px;
+    font-family: sans-serif;
+    display: inline;
+    position: relative;
+    top: 5px;
+}
+.two {
+    font-weight: bold;
+    margin: 10px;
+    font-size: 11.5px;
+    font-family: sans-serif;
+    display: inline;
+    position: relative;
+    top: 5px;
+}
+.three {
+    font-weight: bold;
+    margin: 10px;
+    font-size: 11.5px;
+    font-family: sans-serif;
+    display: inline;
+    position: relative;
+    top: 5px;
+}
+.four {
+    font-weight: bold;
+    margin: 10px;
+    font-size: 11.5px;
+    font-family: sans-serif;
+    display: inline;
+    position: relative;
+    top: 5px;
+}
+.five {
+    font-weight: bold;
+    margin: 10px;
+    font-size: 11.5px;
+    font-family: sans-serif;
+    display: inline;
+    position: relative;
+    top: 5px;
+}
+.six {
+    font-weight: bold;
+    margin: 10px;
+    font-size: 11.5px;
+    font-family: sans-serif;
+    display: inline;
+    position: relative;
+    top: 5px;
+}
+.seven {
+    font-weight: bold;
+    margin: 10px;
+    font-size: 11.5px;
+    font-family: sans-serif;
+    display: inline;
+    position: relative;
+    top: 5px;
+}
+.eight {
+    font-weight: bold;
+    margin: 10px;
+    font-size: 11.5px;
+    font-family: sans-serif;
+    display: inline;
+    position: relative;
+    top: 5px;
+}
+li:hover {
+    /* text-shadow: 0px 1px 0px; */
+    cursor: pointer;
+}
+.links {
+    margin-left: 20px;
+    margin-top: 30px;
+    width: 162px;
+    height: 285px;
+    background-color: rgb(200, 210, 214);
+}
+#box-links {
+    color: rgb(201, 8, 8);
+    font-family: sans-serif;
+    display: block;
+    margin-left: 20px;
+    padding-top: 10px;
+    font-size: 15px;
+}
+a:hover {
+    text-shadow: rgb(224, 5, 5) 0px 1px 0px;
+}
+h2 {
+    color: rgb(155, 37, 37);
+    font-family: sans-serif;
+    margin-left: 210px;
+    margin-top: -289px; 
+}
+.h4-1 {
+    font-size: 20px;
+    margin-top: -5px;
+    font-family: sans-serif;
+    margin-left: 210px;
+    color: rgb(155, 37, 37);
+}
+.para-1 {
+    margin-top: -18px;
+    margin-left: 210px;
+    font-family: sans-serif;
+    font-weight: 500;
+    font-size: 17px;
+    word-spacing: 3px;
+}
+.h4-2 {
+    margin-top: -5px;
+    font-size: 20px;
+    margin-left: 210px;
+    color: rgb(155, 37, 37);
+    font-family: sans-serif;
+}
+#para-links {
+    font-family: sans-serif;
+    color: rgb(201, 8, 8);
+    position: relative;
+    top: -18px;
+    display: block;
+    margin-left: 230px;
+}
+.h4-3 {
+    font-size: 20px;
+    margin-top: -8px;
+    margin-left: 210px;
+    color: rgb(155, 37, 37);
+    font-family: sans-serif;
+}
+.para-2 {
+    padding-bottom: 12px;
+    width: 850px;
+    margin-top: -18px;
+    margin-left: 210px;
+    font-family: sans-serif;
+    font-weight: 500;
+    font-size: 17px;
+    border-bottom: 1px solid black;
+    word-spacing: 3px;
+}
+.h4-4 {
+    font-size: 20px;
+    margin-top: 0px;
+    margin-left: 210px;
+    color: rgb(155, 37, 37);
+    font-family: sans-serif;
+}
+.nine {
+    font-size: 17px;
+    font-family: sans-serif;
+    margin-left: 210px;
+    position: relative;
+    top: -15px;
+}
+.ten {
+    font-size: 17px;
+    font-family: sans-serif;
+    margin-left: 210px;
+    position: relative;
+    top: -15px;
+}
+.eleven {
+    font-size: 17px;
+    font-family: sans-serif;
+    margin-left: 210px;
+    position: relative;
+    top: -15px;
+}
